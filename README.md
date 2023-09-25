@@ -50,4 +50,5 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ou ajouter 
 Ce projet est sous licence GNU. Veuillez consulter le fichier LICENSE pour plus de détails.
 
 Auteur : Christos DIONG AKETI PAIZANOS
+
 Email : paizstos11012001@gmail.com
