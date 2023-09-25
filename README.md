@@ -1,6 +1,6 @@
 # Chros
 
-Chros est un programme Python qui permet de récupérer les mots de passe enregistrés dans le navigateur Google Chrome. Il offre la possibilité d'exporter ces mots de passe au format CSV ou JSON, ainsi que de les afficher dans la console.
+Chros est un programme Python qui permet de récupérer les mots de passe enregistrés dans le navigateur Google Chrome. Il offre la possibilité d'exporter ces mots de passe au format CSV ou JSON, ainsi que de les afficher dans la console. Je déclare que je n'ai aucune responsabilité sur les conséquences de votre utilisation de Chros. Ne soyez pas malveillants!
 
 ## Fonctionnalités
 
